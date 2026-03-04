@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: mark-murgia
 is_owner: true
 name:
-  display: Mark Murgia
+  display: Мургия Марк
   given: Mark
   family: Murgia
   alternate: ''  # Example: 王伟
@@ -13,12 +13,11 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Студент 1 курса РУДН
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Мургия Марк родился 22 октября 2005 года.
+  Учился в ГБОУ "Школа №2103" города Москвы. 
+  В настоящее время является студентом 1 курса РУДН, факультет ФФМиЕН.
 
 affiliations:
   - name: Meta AI
@@ -43,27 +42,16 @@ interests:
   - Large Language Models
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: ФФМиЕН
+    institution: Российский Университет Дружбы Народов
+    start: 2024
+    end: По настоящие время
+  - degree: Школьное образование
+    institution: ГБОУ Школа №2103
+    start: 2014
+    end: 2024
 
 experience:
   - role: Senior AI Research Scientist
