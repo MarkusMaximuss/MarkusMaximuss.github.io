@@ -1,10 +1,10 @@
 schema: hugoblox/author/v1
-slug: mark
+slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Mark Murgia
+  given: Mark
+  family: Murgia
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
