@@ -55,48 +55,39 @@ education:
     end: 2024
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Cтажер / помощник менеджера
+    org: девелоперское агентство «Авиатор»
+    start: 2025-10-12
+    end: по наст. вр.
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Поддерживаю сайты ЖК "Авиатор" и Фонд "ЯРОС"
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: Unity
         level: 4
-  - name: Research & Communication
+      - label: Unreal Engine 4
+        level: 3
+  - name: Other
     items:
-      - label: Academic Writing
+      - label: Lightworks
         level: 5
-      - label: Conference Presentations
+      - label: Adobe Effects
         level: 4
-      - label: Grant Proposals
+      - label: Photoshop
         level: 4
 
 languages:
+  - name: Russian
+    level: 4
+    label: Native
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
-
+  - name: German
+    level: 2  
+    label: Basic Knowledge
 awards:
   - title: Best Paper Award
     awarder: NeurIPS
