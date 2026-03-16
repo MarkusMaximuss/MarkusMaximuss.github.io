@@ -1,5 +1,5 @@
 ---
-title: Пост по прошлой неделе 1
+title: Лекция в Бункере-42
 authors:
   - me
 author_notes:
@@ -11,8 +11,8 @@ publication_types:
 publication: "*Journal Name*"
 publication_short: ""
 abstract: |
-  Summarize the study design, methods, and key results.
-summary: Первый пост по прошлой неделе
+  Посещение лекции.
+summary: Антропология, научпоп
 tags:
   - Research
   - Data
@@ -38,7 +38,7 @@ links:
   - type: video
     url: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Image credit: [**Unsplash**](https://optim.tildacdn.com/tild3536-3433-4739-b565-373165626633/-/resize/560x/-/format/webp/photo.jpg.webp)"
   focal_point: ""
   preview_only: false
 projects: []
@@ -48,4 +48,4 @@ draft: false
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->
-14 февраля я посетил лекцию Дробышевского Станислава Владимировича, ведущего российского антрополога. Лекция была на тему: Как выжить после апокалипсиса. Проходила в настоящем бункере на глубине 65 метров под землей. Бункер-42 находится в Москве на Таганке, и сейчас в нем расположен музей холодной войны.
+14 февраля я посетил лекцию Дробышевского Станислава Владимировича, ведущего российского антрополога. Лекция была на тему: ["Как выжить после апокалипсиса"](https://mediomodo.ru/). Проходила в настоящем бункере на глубине 65 метров под землей. [Бункер-42](https://bunker42.com/) находится в Москве на Таганке, и сейчас в нем расположен музей холодной войны.
