@@ -38,7 +38,7 @@ links:
   - type: video
     url: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://optim.tildacdn.com/tild3536-3433-4739-b565-373165626633/-/resize/560x/-/format/webp/photo.jpg.webp)"
+  caption: 'Image credit: [**Unsplash**](https://img.kassir.ru/7CjqDfostZNWCsresKhYgISdrI0CSQyS-XgJRtxOOKg/aHR0cHM6Ly9jZG4ua2Fzc2lyLnJ1L21zay9nYWxsZXJ5L2E4L2E4NTgzMTk5OWZkYzM2NDZiMjNkMWE2YzM0NTk3M2UzLnBuZw.webp)'
   focal_point: ""
   preview_only: false
 projects: []
