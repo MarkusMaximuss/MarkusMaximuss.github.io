@@ -25,18 +25,24 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:1132243817@rudn.ru
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  - icon: "📖"
+    url: https://elibrary.ru/project_user_office.asp
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://github.com/MarkusMaximuss
+  - icon: academicons/arxiv
+    url: https://arxiv.org/user/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=tzvctj4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0006-9370-0808
+  - icon: academicons/mendeley
+    url: https://www.mendeley.com/
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Mark-Murgia?ev=hdr_xprf
+  - icon: academicons/academia
+    url: https://independent.academia.edu/MarkMurgiya
 
 interests:
   - Ретроигры
