@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: mark-murgia
 is_owner: true
 name:
-  display: Мургия Марк
+  display: Murgia Mark
   given: Mark
   family: Murgia
   alternate: ''  # Example: 王伟
@@ -13,11 +13,11 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Студент 1 курса РУДН
+role: First-year student at RUDN
 bio: |
-  Мургия Марк родился 22 октября 2005 года.
-  Учился в ГБОУ "Школа №2103" города Москвы. 
-  В настоящее время является студентом 1 курса РУДН, факультет ФФМиЕН.
+  Mark Murgia was born on 22.10.2005.
+  Studied at ГБОУ School 2103 in Moscow. 
+  He is currently a first-year student at RUDN.
 
 affiliations:
   - name: Meta AI
@@ -45,28 +45,28 @@ links:
     url: https://independent.academia.edu/MarkMurgiya
 
 interests:
-  - Ретроигры
-  - Разработка игр
-  - Создание контента
-  - Иностранные языки
+  - Video games
+  - Game development
+  - Content making
+  - Foreign languages
 
 education:
-  - degree: Студент
-    institution: РУДН им. Патриса Лумумбы
+  - degree: Student
+    institution: Patrice Lumumba Peoples' Friendship University of Russia
     start: 2024
-    end: по наст. вр.
-  - degree: Школа
+    end: Today
+  - degree: School
     institution: ГБОУ Школа №2103
     start: 2014
     end: 2024
 
 experience:
-  - role: Cтажер / помощник менеджера
-    org: девелоперское агентство «Авиатор»
+  - role: Intern / manager's assistant
+    org: developer agency «Авиатор»
     start: 2025-10-12
-    end: по наст. вр.
+    end: Today
     summary: |
-      Поддерживаю сайты ЖК "Авиатор" и Фонд "ЯРОС"
+      I support the websites "Авиатор" and Фонд "ЯРОС"
 
 skills:
   - name: Technical Skills
